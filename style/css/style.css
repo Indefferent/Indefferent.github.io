@@ -185,6 +185,10 @@
   color: #fff;
 }
 
+.services__descr {
+  color: black;
+}
+
 .contacts {
   padding-top: 50px;
   padding-bottom: 45px;
@@ -284,6 +288,51 @@
 .item__img {
   display: block;
   margin: 0 auto;
+}
+
+.poshlina-table {
+  padding-top: 15px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 50px;
+}
+
+.fee__header {
+  padding-top: 50px;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: center;
+}
+
+.tg {
+  margin: 0 auto;
+}
+
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 1em;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg th {
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 0.1em;
+  font-size: 1em;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 1em 0.5em;
+  word-break: normal;
+}
+
+.tg .tg-0lax {
+  text-align: center;
+  vertical-align: top;
 }
 
 @media (max-width: 1440px) {
